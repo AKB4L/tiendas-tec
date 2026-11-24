@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "mouse",
+    "categoria": "periferico",
+    "precio": 29.99,
+    "descripcion": "mouse gamer",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "teclado",
+    "categoria": "periferico",
+    "precio": 19.99,
+    "descripcion": "teclado gamer",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "nombre": "monitor",
+    "categoria": "periferico",
+    "precio": 39.99,
+    "descripcion": "monitor gamer",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "nombre": "bocinas",
+    "categoria": "periferico",
+    "precio": 59.99,
+    "descripcion": "bocinas gamer",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "nombre": "audífonos",
+    "categoria": "periferico",
+    "precio": 79.99,
+    "descripcion": "audífonos gamer",
+    "stock": 2
+  },
+  {
+    "id": 6,
+    "nombre": "mousepad",
+    "categoria": "accesorio",
+    "precio": 9.99,
+    "descripcion": "mousepad extendido",
+    "stock": 0
+  },
+  {
+    "id": 7,
+    "nombre": "cable hdmi",
+    "categoria": "accesorio",
+    "precio": 7.99,
+    "descripcion": "cable hdmi de 2 metros",
+    "stock": 12
+  }
+]
